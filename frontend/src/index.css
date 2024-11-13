@@ -66,3 +66,22 @@ button:focus-visible {
     background-color: #f9f9f9;
   }
 }
+
+.Form{
+  padding: 16px 10px;
+  background-color: beige;
+  width: 300px;
+  font-size: 16px;
+}
+.Btn{
+  padding: 10px 8px;
+  background-color: #646cff;
+  border-radius: 5px;
+  margin-left: 15px;
+  color: aliceblue;
+}
+.Btn:hover{
+  background-color: aliceblue;
+  color: #646cff;
+  cursor: pointer;
+}
